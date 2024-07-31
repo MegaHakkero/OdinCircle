@@ -12,3 +12,4 @@ run the generated executable.
 
 ### Requirements
 - a linux machine (ioctl + signals)
+- truecolor support in your terminal (it's 2024. it's time you left 256color behind)
